@@ -1,4 +1,4 @@
-# Thi sis for test only
+# This is for test only
 
 import requests
 key=input("Enter the keyword you are looking for: ") 
